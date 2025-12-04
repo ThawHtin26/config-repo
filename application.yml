@@ -1,2 +1,2 @@
-commmon:
+common:
   message: "Hello from Spring Cloud Config Server"
